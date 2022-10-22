@@ -32,7 +32,7 @@ class Aboutus extends StatelessWidget {
               Padding(
                   padding: EdgeInsets.all(10),
                   child: Text(
-                    'This App is developed by group 10',
+                    'This App was developed by Group 10 of Computer Science Class 2022 for their recess project',
                     style: TextStyle(
                       fontWeight: FontWeight.w500,
                       fontSize: _large ? 20 : (_medium ? 17.5 : 15),
@@ -41,7 +41,7 @@ class Aboutus extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 10),
                 child: Text(
-                  "Makerere University",
+                  "Contact us at -",
                   style: TextStyle(
                     fontWeight: FontWeight.w400,
                     fontSize: _large ? 20 : (_medium ? 17.5 : 15),
@@ -51,7 +51,7 @@ class Aboutus extends StatelessWidget {
               Padding(
                 padding: EdgeInsets.symmetric(horizontal: 10),
                 child: Text(
-                  "Cocis, Computer Science",
+                  "kimulikyobe@gmail.com or daisyvega019@gmail.com",
                   style: TextStyle(
                     fontWeight: FontWeight.w400,
                     fontSize: _large ? 20 : (_medium ? 17.5 : 15),

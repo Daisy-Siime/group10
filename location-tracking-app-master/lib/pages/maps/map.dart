@@ -45,11 +45,11 @@ class _MyLocationState extends State<MyLocation> {
   void initState() {
     super.initState();
     if (widget.isDark) {
-      rootBundle.loadString('assets/styles_json/dark.json').then((string) {
+      rootBundle.loadString('assets/Pin_current_location.png').then((string) {
         _mapStyle = string;
       });
     } else {
-      rootBundle.loadString('assets/styles_json/light.json').then((string) {
+      rootBundle.loadString('assets/Pin_current_location.png').then((string) {
         _mapStyle = string;
       });
     }

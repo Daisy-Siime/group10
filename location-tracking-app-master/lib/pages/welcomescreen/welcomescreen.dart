@@ -142,9 +142,9 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                                     height: 250,
                                   ),
                                   Spacer(),
-                                  Text("LIVE LOCATION TRACKING APP",
+                                  Text("",
                                       style: TextStyle(
-                                          fontSize: 15,
+                                          fontSize: 20,
                                           fontWeight: FontWeight.bold,
                                           color: Colors.white)),
                                   Spacer(),

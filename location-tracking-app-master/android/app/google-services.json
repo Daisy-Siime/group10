@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "793598539327",
-    "project_id": "locationtracker-a1073",
-    "storage_bucket": "locationtracker-a1073.appspot.com"
+    "project_number": "531836624698",
+    "project_id": "tracker-366122",
+    "storage_bucket": "tracker-366122.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:793598539327:android:fe80b5ef3379dce575aa8a",
+        "mobilesdk_app_id": "1:531836624698:android:734ce7c442fcc804cbba03",
         "android_client_info": {
-          "package_name": "com.example.locationtracker"
+          "package_name": "com.recess.locationtracker"
         }
       },
       "oauth_client": [
         {
-          "client_id": "793598539327-m2rm4mdaigvm935d27th4gghqec0h4s0.apps.googleusercontent.com",
+          "client_id": "531836624698-03r3ep2pd823duokdktfu90pvoavjgnf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDZHvmYnAOfpPXyfwbirfz1OTSzv9rDGfM"
+          "current_key": "AIzaSyBInLqN6t1oXPPwiGxDSi0dSjtfXF9VOCo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "793598539327-m2rm4mdaigvm935d27th4gghqec0h4s0.apps.googleusercontent.com",
+              "client_id": "531836624698-03r3ep2pd823duokdktfu90pvoavjgnf.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

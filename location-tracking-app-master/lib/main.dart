@@ -44,6 +44,7 @@ class _MyAppState extends State<MyApp> {
     return isloading
         ? Center(child: CircularProgressIndicator())
         : MaterialApp(
+            debugShowCheckedModeBanner: false,
             title: 'Location Tracker',
             theme: ThemeData(
               brightness: Brightness.light,
